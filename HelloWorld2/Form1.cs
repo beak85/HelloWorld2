@@ -29,7 +29,7 @@ namespace HelloWorld2
 
         private void btnGoodbye_Click(object sender, EventArgs e)
         {
-            lblDisplayInfo.Text = "Goodby World!";
+            lblDisplayInfo.Text = "Goodbye Cruel World!";
         }
 
         private void btnShowPic_Click(object sender, EventArgs e)
