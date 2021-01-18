@@ -24,7 +24,7 @@ namespace HelloWorld2
 
         private void btnMessage_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Thanks for clicking my button!");
+            MessageBox.Show("This is my edited button!");
         }
 
         private void btnGoodbye_Click(object sender, EventArgs e)
